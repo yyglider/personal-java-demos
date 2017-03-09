@@ -1,4 +1,4 @@
-package dataStructure.HashMapDemo;
+package data_structure.demos.HashMapDemo;
 
 /**
  * Java 用自定义类型作为HashMap的键,重载hashCode()和equals()两个方法才能实现自定义键在HashMap中的查找
