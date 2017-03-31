@@ -1,4 +1,4 @@
-package main.java.reflect;
+package reflect;
 
 /**
  * Created by yaoyuan on 2017/2/13.
