@@ -2,156 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ff01b9a-f91a-4c5d-9ca8-eb05c2f524bc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/annotation/Controller.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/annotation/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/annotation/RequestMapping.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ThreadLocal/SafeSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ThreadLocal/Sequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ThreadLocal/SequenceRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ThreadLocal/UnsafeSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/bad/HashMapHangDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/bad/InconsistentReadDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/bad/InvalidCombinationStateDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/bad/InvalidLongDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/bad/NoPublishDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/bad/SymmetricLockDeadlockDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/bad/SynchronizationOnMutableFieldDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/bad/WrongCounterDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/concurrency/bad/util/Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/ArrayList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/BinaryTreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/Iterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/LinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/List.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/Queue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/dataStructure/Stack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jvm/gc/FinalizeEscapeGC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jvm/gc/RererenceCountingGC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jvm/oom/HeapOOM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jvm/oom/RuntimeConstantPoolOM.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jvm/oom/StackOF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/reflect/ActionInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/reflect/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/reflect/Person.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/reflect/Superman.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data_structure/demos/CopyOnWriteListDemo.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data_structure/demos/HashMapDemo/Main.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/data_structure/demos/HashMapDemo/Person.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/misc/Files1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/misc/Maps1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/misc/Math1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/misc/String1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Nashorn9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/Product.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/nashorn/SuperRunner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Article.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Optional1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Optional2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams10.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams11.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams12.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams13.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams2.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams3.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams4.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams5.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams6.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams7.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams8.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/stream/Streams9.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/time/LocalDate1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/time/LocalDateTime1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/java8/samples/time/LocalTime1.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflect/aop/Hello.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflect/aop/HelloImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflect/aop/dynamic_proxy/CGlibHelloProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflect/aop/dynamic_proxy/DynamicHelloProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reflect/aop/static_proxy/StaticHelloProxy.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/personal-java-demos.iml" afterPath="$PROJECT_DIR$/personal-java-demos.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/DisruptorMain.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/DisruptorMain.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/ExecutorPoolDemo/CachedTheadPoolDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ExecutorPoolDemo/CachedTheadPoolDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/ExecutorPoolDemo/FixThreadPoolDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ExecutorPoolDemo/FixThreadPoolDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/ExecutorPoolDemo/MyThread.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ExecutorPoolDemo/MyThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/ExecutorPoolDemo/MyThreadPoolDemo/ThreadPool.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ExecutorPoolDemo/MyThreadPoolDemo/ThreadPool.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/ExecutorPoolDemo/ScheduledThreadPoolDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ExecutorPoolDemo/ScheduledThreadPoolDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/ExecutorPoolDemo/SingleThreadPoolDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ExecutorPoolDemo/SingleThreadPoolDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/ExecutorPoolDemo/TraceThreadPoolExecutor.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/ExecutorPoolDemo/TraceThreadPoolExecutor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/Lock/ConditionDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Lock/ConditionDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/Lock/ReadWriteLock/Client.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Lock/ReadWriteLock/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/Lock/ReadWriteLock/Data.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Lock/ReadWriteLock/Data.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/Lock/ReadWriteLock/ReadWriteLock.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Lock/ReadWriteLock/ReadWriteLock.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/Lock/ReadWriteLock/ReaderThread.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Lock/ReadWriteLock/ReaderThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/Lock/ReadWriteLock/WriterThread.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Lock/ReadWriteLock/WriterThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/Lock/ReadWriteLockDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Lock/ReadWriteLockDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/Lock/ReentrantLockDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/Lock/ReentrantLockDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/atomic/AtomicIntegerDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/atomic/AtomicIntegerDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/blockingqueue/ArrayBlockingQueueDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/blockingqueue/ArrayBlockingQueueDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/blockingqueue/DesktopSearch.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/blockingqueue/DesktopSearch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/blockingqueue/FileCrawler.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/blockingqueue/FileCrawler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/blockingqueue/Indexer.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/blockingqueue/Indexer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/cache/Computable.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/cache/Computable.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/cache/ExpensiveFunction.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/cache/ExpensiveFunction.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/cache/Memoizer.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/cache/Memoizer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/cache/Memoizer1.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/cache/Memoizer1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/cache/Memoizer2.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/cache/Memoizer2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/cache/Memoizer3.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/cache/Memoizer3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/futuretask/DataLoadException.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/futuretask/DataLoadException.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/futuretask/Preloader.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/futuretask/Preloader.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/futuretask/ProductInfo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/futuretask/ProductInfo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/semaphore/BoundedHashSet.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/semaphore/BoundedHashSet.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/semaphore/SemaphoreDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/semaphore/SemaphoreDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/thread/MyAppThread.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/thread/MyAppThread.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/thread/MyThreadFactory.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/thread/MyThreadFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/book/thread/PriorityDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/book/thread/PriorityDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/countdownlatch/ApplicationStartupUtil.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/countdownlatch/ApplicationStartupUtil.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/countdownlatch/BaseHealthChecker.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/countdownlatch/BaseHealthChecker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/countdownlatch/CountDownLatchDemo.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/countdownlatch/CountDownLatchDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/countdownlatch/Main.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/countdownlatch/Main.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/countdownlatch/NetworkHealthChecker.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/countdownlatch/NetworkHealthChecker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/countdownlatch/synchronization/TimeStatsLatch.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/countdownlatch/synchronization/TimeStatsLatch.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/concurrency/forkJoin/CounterTask.java" afterPath="$PROJECT_DIR$/src/main/java/concurrency/forkJoin/CounterTask.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Atomic1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Atomic1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/CompletableFuture1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/CompletableFuture1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/ConcurrentHashMap1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/ConcurrentHashMap1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/ConcurrentUtils.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/ConcurrentUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Executors1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Executors1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Executors2.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Executors2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Executors3.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Executors3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Lock1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Lock1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Lock2.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Lock2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Lock3.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Lock3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Lock4.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Lock4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Lock5.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Lock5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Lock6.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Lock6.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/LongAccumulator1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/LongAccumulator1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/LongAdder1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/LongAdder1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Semaphore1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Semaphore1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Semaphore2.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Semaphore2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Synchronized1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Synchronized1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Synchronized2.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Synchronized2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/concurrent/Threads1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/concurrent/Threads1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/lambda/Interface1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/lambda/Interface1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/lambda/Lambda1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/lambda/Lambda1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/lambda/Lambda2.java" afterPath="$PROJECT_DIR$/src/main/java/samples/lambda/Lambda2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/lambda/Lambda3.java" afterPath="$PROJECT_DIR$/src/main/java/samples/lambda/Lambda3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/lambda/Lambda4.java" afterPath="$PROJECT_DIR$/src/main/java/samples/lambda/Lambda4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/lambda/Lambda5.java" afterPath="$PROJECT_DIR$/src/main/java/samples/lambda/Lambda5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/lambda/Person.java" afterPath="$PROJECT_DIR$/src/main/java/samples/lambda/Person.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/misc/Annotations1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/misc/Annotations1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/misc/CheckedFunctions.java" afterPath="$PROJECT_DIR$/src/main/java/samples/misc/CheckedFunctions.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/java8/samples/misc/Concurrency1.java" afterPath="$PROJECT_DIR$/src/main/java/samples/misc/Concurrency1.java" />
     </list>
     <ignored path="personal-java-demos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -174,7 +30,7 @@
     <favorites_list name="personal-java-demos" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="LinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -235,11 +91,52 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10964912">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/annotation/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#203#204#0" expanded="false" />
+                <element signature="e#245#246#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CGlibHelloProxy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/reflect/aop/dynamic_proxy/CGlibHelloProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#402#403#0" expanded="false" />
+                <element signature="e#454#455#0" expanded="false" />
+                <element signature="e#737#738#0" expanded="false" />
+                <element signature="e#781#782#0" expanded="false" />
+                <element signature="e#808#809#0" expanded="false" />
+                <element signature="e#851#852#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DynamicHelloProxy.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/reflect/aop/dynamic_proxy/DynamicHelloProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -255,6 +152,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="yyglider &lt;yaoyuan0120@126.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -290,9 +192,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1592" />
-    <option name="y" value="284" />
+    <option name="y" value="-8" />
     <option name="width" value="1616" />
-    <option name="height" value="624" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -320,7 +222,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -397,9 +298,36 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personal-java-demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personal-java-demos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reflect" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -411,6 +339,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="D:\progarm sortware install\node-v6.10.0-win-x64\node.exe" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -842,6 +771,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -878,44 +812,57 @@
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0ff01b9a-f91a-4c5d-9ca8-eb05c2f524bc" name="Default" comment="" />
       <created>1489046823927</created>
       <option name="number" value="Default" />
       <updated>1489046823927</updated>
+      <workItem from="1490928548105" duration="385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="385000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1592" y="284" width="1616" height="624" extended-state="0" />
-    <editor active="true" />
+    <frame x="1592" y="-8" width="1616" height="916" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6649551" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -925,6 +872,62 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/Iterator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/BinaryTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -975,8 +978,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10964912">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/annotation/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#203#204#0" expanded="false" />
+            <element signature="e#245#246#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/aop/dynamic_proxy/CGlibHelloProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#402#403#0" expanded="false" />
+            <element signature="e#454#455#0" expanded="false" />
+            <element signature="e#737#738#0" expanded="false" />
+            <element signature="e#781#782#0" expanded="false" />
+            <element signature="e#808#809#0" expanded="false" />
+            <element signature="e#851#852#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reflect/aop/dynamic_proxy/DynamicHelloProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
