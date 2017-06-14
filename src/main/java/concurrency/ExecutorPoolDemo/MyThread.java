@@ -1,9 +1,7 @@
-package main.java.concurrency.ExecutorPoolDemo;
+package concurrency.ExecutorPoolDemo;
 
-
+/**
+ * Created by 006564 on 2017/5/31.
+ */
 public class MyThread extends Thread {
-    @Override
-    public void run(){
-        System.out.println(Thread.currentThread().getName()+" is running ... ");
-    }
 }

@@ -1,4 +1,4 @@
-package main.java.concurrency.ExecutorPoolDemo;
+package concurrency.ExecutorPoolDemo;
 
 import java.util.concurrent.ScheduledThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;

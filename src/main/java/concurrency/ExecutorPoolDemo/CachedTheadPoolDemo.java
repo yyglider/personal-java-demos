@@ -1,4 +1,4 @@
-package main.java.concurrency.ExecutorPoolDemo;
+package concurrency.ExecutorPoolDemo;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
