@@ -1,4 +1,4 @@
-package base.design_parttern;
+package design_parttern;
 
 /**
  * Created by yaoyuan on 2017/3/31.

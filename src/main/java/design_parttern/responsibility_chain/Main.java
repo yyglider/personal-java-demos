@@ -1,4 +1,4 @@
-package base.design_parttern.responsibility_chain;
+package design_parttern.responsibility_chain;
 
 /**
  * Created by yaoyuan on 2017/3/31.

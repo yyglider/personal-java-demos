@@ -1,4 +1,4 @@
-package base.design_parttern.responsibility_chain;
+package design_parttern.responsibility_chain;
 
 import java.util.ArrayList;
 import java.util.List;

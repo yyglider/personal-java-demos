@@ -4,7 +4,7 @@ import java.util.stream.IntStream;
 
 /**
  * 当一个请求资源，请求某个集群时，通过对请求资源进行hash得到的值，然后对存储集群的节点数取模来得到，该请求资源，应该存储到哪一个存储节点。
- * Created by 006564 on 2017/5/2.
+ * Created by yaoyuan on 2017/5/2.
  */
 public class NormalHashCluster extends Cluster {
     public NormalHashCluster() {

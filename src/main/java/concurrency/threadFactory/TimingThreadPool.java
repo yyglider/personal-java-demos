@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicLong;
  * 自定义线程池，通过beforeExecute,afterExecute,termitated等方法来添加日志
  * 记录和统计信息收集。
  *
- * Created by 006564 on 2017/5/31.
+ * Created by yaoyuan on 2017/5/31.
  */
 public class TimingThreadPool extends ThreadPoolExecutor {
 
