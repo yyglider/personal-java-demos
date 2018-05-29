@@ -1,7 +1,8 @@
-package netty;
+package netty.echo;
 
 
 import io.netty.bootstrap.ServerBootstrap;
+import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelOption;
@@ -9,20 +10,16 @@ import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioServerSocketChannel;
-import netty.discard.DiscardServerHandler;
-import netty.echo.EchoServerHandler;
-import netty.echo.LoggingServerHandler;
-import netty.pojo.TimeDecoder;
-import netty.time.TimeServerHandler;
+import io.netty.handler.codec.DelimiterBasedFrameDecoder;
+import io.netty.handler.codec.Delimiters;
+import io.netty.handler.codec.string.StringDecoder;
+import io.netty.handler.codec.string.StringEncoder;
 
-/**
- * Created by yaoyuan on 2018/5/18.
- */
-public class Server {
+public class EchoServer {
 
     private int port;
 
-    public Server(int port) {
+    public EchoServer(int port) {
         this.port = port;
     }
 
@@ -39,12 +36,18 @@ public class Server {
             b.group(bossGroup, workerGroup)
                     //Netty通过工厂类，利用反射创建NioServerSocketChannel对象
                     .channel(NioServerSocketChannel.class)
-                    .handler(new LoggingServerHandler())
-                    .option(ChannelOption.SO_BACKLOG, 1024)
+//                    .handler(new LoggingServerHandler())
+//                    .option(ChannelOption.SO_BACKLOG, 1024)
+
                     .childHandler(new ChannelInitializer<SocketChannel>() {
                         @Override
                         public void initChannel(SocketChannel ch) throws Exception {
-                            ch.pipeline().addLast(new EchoServerHandler());
+                            ch.pipeline().addLast(
+//                                   //Delimiters.lineDelimiter()，这里可以使用自定义的分隔符
+                                    new DelimiterBasedFrameDecoder(8192,  Unpooled.wrappedBuffer(new byte[] {'\t'})),
+                                    new StringDecoder(),
+                                    new StringEncoder(),
+                                    new EchoServerHandler());
                         }
                     })
                     //TCP/IP 的服务端，设置socket的参数选项比如tcpNoDelay 和 keepAlive
@@ -63,7 +66,7 @@ public class Server {
 
     public static void main(String[] args) throws Exception {
         int port = 10086;
-        new Server(port).run();
+        new EchoServer(port).run();
     }
 
 
